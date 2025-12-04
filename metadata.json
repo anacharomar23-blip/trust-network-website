@@ -1,5 +1,10 @@
 {
+<<<<<<< HEAD
   "name": "Trust Network Lda - Tech Solutions5",
   "description": "Professional website for Trust Network Lda specializing in VoIP Servers, Call Centers, and TrustGuard Network Security solutions.",
+=======
+  "name": "Trust Network VoIP",
+  "description": "Corporate website for Trust Network LDA, featuring VoIP Server solutions, Call Center management, and Interactive IVR systems in Mozambique.",
+>>>>>>> ac3c43fae94673539aed93b6746c2433f818b544
   "requestFramePermissions": []
 }
